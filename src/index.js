@@ -14,5 +14,3 @@ function copy() {
   textarea2.select();
   document.execCommand("copy");
 }
-
-let test = "Neanderthal variants [17][7][8]";
