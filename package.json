@@ -1,0 +1,22 @@
+{
+  "name": "wikipedia-remove-brackets",
+  "version": "1.0.0",
+  "description": "Copy and paste a text from wikipedia (or other source) to remove those pesky brackets offending your eyes and readability.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsx/wikipedia-remove-brackets.git"
+  },
+  "author": "scsx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsx/wikipedia-remove-brackets/issues"
+  },
+  "homepage": "https://github.com/scsx/wikipedia-remove-brackets#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
