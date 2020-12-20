@@ -1,3 +1,5 @@
+/* MOVED TO HTML */
+
 let textarea1 = document.getElementById("paste");
 let textarea2 = document.getElementById("copy");
 let copybutton = document.getElementById("copybutton");
